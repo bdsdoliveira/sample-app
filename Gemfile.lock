@@ -73,7 +73,7 @@ GEM
       thor (>= 0.14, < 2.0)
     json (1.7.7)
     libnotify (0.5.9)
-    listen (1.0.2)
+    listen (1.0.3)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
       rb-kqueue (>= 0.2)
