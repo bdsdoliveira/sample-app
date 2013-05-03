@@ -27,6 +27,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'bcrypt-ruby', '3.0.1'
 
 group :development do
   gem 'annotate', '2.5.0'
